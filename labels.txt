@@ -1,0 +1,8 @@
+
+# Define class mapping
+id2label = {
+    "0": "bot",
+    "1": "cyborg",
+    "2": "real",
+    "3": "verified"
+}
